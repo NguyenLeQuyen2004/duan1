@@ -1,0 +1,15 @@
+{
+    "name": "lequyen/mvc",
+    "autoload": {
+        "psr-4": {
+            "Lequyen\\Mvc\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "NguyenLeQuyen2004",
+            "email": "quyennlph37238@fpt.edu.vn"
+        }
+    ],
+    "require": {}
+}
